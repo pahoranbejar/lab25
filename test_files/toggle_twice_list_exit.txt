@@ -1,0 +1,55 @@
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 0
+
+[Available] Red Scooter: Red scooter. Has battery.
+[Available] Blue Scooter: Battery-powered scooter.
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 1
+
+Which item do you want to check in/out?
+(0) Red Scooter
+(1) Blue Scooter
+Option: 0
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 0
+
+[Checked Out] Red Scooter: Red scooter. Has battery.
+[Available] Blue Scooter: Battery-powered scooter.
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 1
+
+Which item do you want to check in/out?
+(0) Red Scooter
+(1) Blue Scooter
+Option: 0
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 0
+
+[Available] Red Scooter: Red scooter. Has battery.
+[Available] Blue Scooter: Battery-powered scooter.
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 2

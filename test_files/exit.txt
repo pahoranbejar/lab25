@@ -1,0 +1,6 @@
+
+What would you like to do?
+(0) List items
+(1) Check item in/out
+(2) Quit
+Option: 2
